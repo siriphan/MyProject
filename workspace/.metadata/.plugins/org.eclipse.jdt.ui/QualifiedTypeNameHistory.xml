@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.whatname.R.id"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.multipleactivity.MainActivity"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.multipleactivity.R.id"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.dictionary.R.id"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.dictionary.EngToThaiActivity"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyimage.R.id"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyimage.R.drawable"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyaudio.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyaudio.MainActivity"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyaudio.R.raw"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore.Video"/>
+<fullyQualifiedTypeName name="android.widget.VideoView"/>
+<fullyQualifiedTypeName name="android.widget.MediaController"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyvideo.R.raw"/>
+<fullyQualifiedTypeName name="android.webkit.WebView"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.easyweb.R.id"/>
+<fullyQualifiedTypeName name="android.webkit.WebSettings"/>
+<fullyQualifiedTypeName name="android.webkit.WebViewClient"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.samplequiz.SecondMainActivity"/>
+<fullyQualifiedTypeName name="th.ac.rru.csit.samplequiz.ThreeActivity"/>
+</qualifiedTypeNameHistroy>

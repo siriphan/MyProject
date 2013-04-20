@@ -1,0 +1,70 @@
+package th.ac.rru.csit.dictionary;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.TextView;
+
+public class EngToThaiActivity extends Activity {
+	Button button1;
+	Button button2;
+	Button button3;
+	Button button4;
+	TextView textView1;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_eng_to_thai);
+		
+		button1 = (Button)findViewById(R.id.button1);
+		textView1 = (TextView)findViewById(R.id.textView1);
+		
+		button1.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+			textView1.setText("แมว");
+		
+			}
+		});
+		
+		button2 = (Button)findViewById(R.id.button2);
+		textView1 = (TextView)findViewById(R.id.textView1);
+		
+		button2.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+			textView1.setText("ค้างคาว");
+		
+			}
+		});
+		
+		button3 = (Button)findViewById(R.id.button3);
+		textView1 = (TextView)findViewById(R.id.textView1);
+		
+		button3.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+			textView1.setText("หนู");
+		
+			}
+		});
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.eng_to_thai, menu);
+		return true;
+	}
+
+}
